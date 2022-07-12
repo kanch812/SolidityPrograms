@@ -1,3 +1,7 @@
+/* this ia a smartcontract named decentralized university tracker with the objective of resolving the issues of rising frauds related to colleges like illegal colleges
+running without any university affiliation providing fake degrees to illegit students. Also students get scammed because of these fake colleges, losing precious years of life and having career at stake. This
+is a big issue for a country like India especially when it is in the phase of demographic dividend when the youth need to be channelized to make our country grow in right direction. */
+
 pragma solidity ^0.5.16;
 contract DecentralizedUniversity {
 address universityAdmin;
